@@ -1,0 +1,4 @@
+a="""my name is vivek sintg "and " i am 
+naveen 'pal'
+"""
+print(a)
